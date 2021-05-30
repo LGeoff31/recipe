@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+
+.recipe-card {
+    margin: 30px;
+    background-color: rgb(112, 112, 240);
+    border-radius: 6px;
+    padding: 30px;
+}
+
+.instructions {
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+
+.cals{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Limelight', cursive;
+    color: rgb(201, 5, 38);
+}
